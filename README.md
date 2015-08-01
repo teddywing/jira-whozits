@@ -12,7 +12,7 @@ having to scroll through the entire board to find it.
 ## Usage
 Append the name of a team member to the URL removing any spaces:
 
-	https://some-company.atlassian.net/secure/RapidBoard.jspa?rapidView=5&selectedIssue=SC-1000#PhilpJFry
+	https://some-company.atlassian.net/secure/RapidBoard.jspa?rapidView=5&selectedIssue=SC-1000#PhilipJFry
 
 
 ## Installing
