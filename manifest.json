@@ -1,0 +1,12 @@
+{
+	"manifest_version": 2,
+
+	"name": "Jira Whozits",
+	"description": "Add ids to person sections on the scrum board for faster navigation.",
+	"version": "0.0.1",
+
+	"content_scripts": [{
+		"matches": ["*://*.atlassian.net/secure/RapidBoard.jspa*"],
+		"js": ["main.js"]
+	}]
+}
